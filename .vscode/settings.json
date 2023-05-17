@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./medicine/Lib/site-packages"
+    ]
+}
